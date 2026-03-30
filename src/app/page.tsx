@@ -189,7 +189,7 @@ export default function LandingPage() {
           name: "Sarah Johnson",
           role: "CEO",
           testimonial: "Pulse scaled our leads by 300% in just 6 months. Absolute experts.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZaIKn9WWXlxgjSGQ2zFAQbuQz/portrait-of-a-confident-professional-in--1774878307877-deda2ae8.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZaIKn9WWXlxgjSGQ2zFAQbuQz/portrait-of-a-confident-professional-in--1774878307877-deda2ae8.png?_wi=1",
         },
         {
           id: "2",
@@ -217,7 +217,7 @@ export default function LandingPage() {
           name: "Jessica Lee",
           role: "CMO",
           testimonial: "A team that understands the pulse of the market perfectly.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZaIKn9WWXlxgjSGQ2zFAQbuQz/portrait-of-a-confident-professional-in--1774878307877-deda2ae8.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZaIKn9WWXlxgjSGQ2zFAQbuQz/portrait-of-a-confident-professional-in--1774878307877-deda2ae8.png?_wi=2",
         },
       ]}
       title="Client success stories"
