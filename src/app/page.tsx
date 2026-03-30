@@ -110,11 +110,11 @@ export default function LandingPage() {
             textboxLayout="default"
             useInvertedBackground={false}
             testimonials={[
-              { id: "1", name: "Sarah Johnson", role: "CEO", testimonial: "Pulse scaled our leads by 300% in just 6 months. Absolute experts.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZaIKn9WWXlxgjSGQ2zFAQbuQz/portrait-of-a-confident-professional-in--1774878307877-deda2ae8.png" },
+              { id: "1", name: "Sarah Johnson", role: "CEO", testimonial: "Pulse scaled our leads by 300% in just 6 months. Absolute experts.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZaIKn9WWXlxgjSGQ2zFAQbuQz/portrait-of-a-confident-professional-in--1774878307877-deda2ae8.png?_wi=1" },
               { id: "2", name: "Michael Chen", role: "CTO", testimonial: "The design quality is unmatched. Truly a premium agency experience.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZaIKn9WWXlxgjSGQ2zFAQbuQz/portrait-of-a-creative-entrepreneur-shar-1774878308856-5ecb9240.png" },
               { id: "3", name: "Emily Rodriguez", role: "Founder", testimonial: "Data-driven results that feel like pure magic. Highly recommend.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZaIKn9WWXlxgjSGQ2zFAQbuQz/portrait-of-a-tech-industry-founder-clea-1774878309272-c09f1280.png" },
               { id: "4", name: "David Kim", role: "Marketing Director", testimonial: "Professional, fast, and incredibly effective strategy.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZaIKn9WWXlxgjSGQ2zFAQbuQz/portrait-of-a-successful-marketer-warm-l-1774878308581-a40f6e03.png" },
-              { id: "5", name: "Jessica Lee", role: "CMO", testimonial: "A team that understands the pulse of the market perfectly.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZaIKn9WWXlxgjSGQ2zFAQbuQz/portrait-of-a-confident-professional-in--1774878307877-deda2ae8.png" }
+              { id: "5", name: "Jessica Lee", role: "CMO", testimonial: "A team that understands the pulse of the market perfectly.", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZaIKn9WWXlxgjSGQ2zFAQbuQz/portrait-of-a-confident-professional-in--1774878307877-deda2ae8.png?_wi=2" }
             ]}
             title="Client success stories"
             description="Real results from our partners."
